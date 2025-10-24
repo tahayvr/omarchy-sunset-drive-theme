@@ -14,7 +14,11 @@ omarchy-theme-install https://github.com/tahayvr/omarchy-sunset-drive-theme
 
 ## Neovim Colorscheme
 
-[sunset-drive.nvim](https://github.com/tahayvr/sunset-drive.nvim)
+[sunset-drive.nvim](https://github.com/tahayvr/sunset-drive.nvim) Made with [themery.nvim](https://github.com/tahayvr/themery.nvim)
+
+## VSCode Theme
+
+[Sunset Drive VSCode Theme](https://marketplace.visualstudio.com/items?itemName=TahaYVR.sunset-drive)
 
 ## License
 

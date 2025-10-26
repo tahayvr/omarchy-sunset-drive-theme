@@ -10,3 +10,16 @@
 @define-color border #33A1FF;
 @define-color foreground #EDEDFE;
 @define-color background #0F0F19;
+
+window {
+  /* keep default size, no background needed here */
+}
+
+window .box-wrapper {
+  background: @background; /* solid background */
+  color: @text;
+  border: 3px solid @border;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 0 auto; /* center content if needed */
+}

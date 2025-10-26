@@ -5,11 +5,11 @@
  */
 
 @define-color background #0F0F19;
-@define-color foreground #EDEDFE;
+@define-color foreground #3cffed;
 
 * {
   background-color: @background;
-  color: #3cffed;
+  color: @foreground;
 
   border: none;
   border-radius: 0;

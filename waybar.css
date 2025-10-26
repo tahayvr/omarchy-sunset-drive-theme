@@ -21,37 +21,20 @@
 
 .modules-left {
   margin-left: 8px;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 .modules-right {
   margin-right: 8px;
-
-  font-weight: bold;
-  font-size: 14px;
-}
-
-#workspaces {
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #workspaces button {
   padding: 0 6px;
   margin: 0 1.5px;
   min-width: 9px;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #workspaces button.empty {
   opacity: 0.2;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #cpu,
@@ -63,70 +46,43 @@
   min-width: 12px;
   margin: 0 7.5px;
   color: #ff66f6;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #tray {
   margin-right: 16px;
   color: #ffea00;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #bluetooth {
   margin-right: 17px;
   color: #33a1ff;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #network {
   margin-right: 13px;
   color: #33a1ff;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #custom-expand-icon {
   margin-right: 20px;
   color: #00f59b;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 tooltip {
   padding: 2px;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #custom-update {
   font-size: 10px;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #clock {
   margin-left: 8.75px;
   color: #ff66f6;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 .hidden {
   opacity: 0;
-
-  font-weight: bold;
-  font-size: 14px;
 }
 
 #custom-screenrecording-indicator {

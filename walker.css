@@ -19,7 +19,5 @@ window .box-wrapper {
   background: @background; /* solid background */
   color: @text;
   border: 3px solid @border;
-  border-radius: 8px;
-  padding: 8px;
-  margin: 0 auto; /* center content if needed */
+  border-radius: 0px;
 }

@@ -6,3 +6,92 @@
 
 @define-color background #0F0F19;
 @define-color foreground #EDEDFE;
+
+* {
+  background-color: @background;
+  color: #3cffed;
+
+  border: none;
+  border-radius: 0;
+  min-height: 0;
+  font-family: "JetBrainsMonoNL Nerd Font";
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.modules-left {
+  margin-left: 8px;
+}
+
+.modules-right {
+  margin-right: 8px;
+}
+
+#workspaces button {
+  all: initial;
+  padding: 0 6px;
+  margin: 0 1.5px;
+  min-width: 9px;
+}
+
+#workspaces button.empty {
+  opacity: 0.2;
+}
+
+#cpu,
+#battery,
+#pulseaudio,
+#custom-omarchy,
+#custom-screenrecording-indicator,
+#custom-update {
+  min-width: 12px;
+  margin: 0 7.5px;
+  color: #ff66f6;
+}
+
+#tray {
+  margin-right: 16px;
+  color: #ffea00;
+}
+
+#bluetooth {
+  margin-right: 17px;
+  color: #33a1ff;
+}
+
+#network {
+  margin-right: 13px;
+  color: #33a1ff;
+}
+
+#custom-expand-icon {
+  margin-right: 20px;
+  color: #00f59b;
+}
+
+tooltip {
+  padding: 2px;
+}
+
+#custom-update {
+  font-size: 10px;
+}
+
+#clock {
+  margin-left: 8.75px;
+  color: #ff66f6;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+#custom-screenrecording-indicator {
+  min-width: 12px;
+  margin-left: 8.75px;
+  font-size: 10px;
+}
+
+#custom-screenrecording-indicator.active {
+  color: #ff3366;
+}
